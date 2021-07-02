@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 田文静
+####  学历  本科
+####  学校  石家庄铁道大学
+####  邮箱  28484246712@qq.com
+####  地址  河北省石家庄市
+####  籍贯  河北省唐山市
 
-You can use the [editor on GitHub](https://github.com/twj-droid/tian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息
+1.消息。。。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twj-droid/tian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 研究方向
+  -人工智能
+  -图形图像识别
+  
+### 荣誉奖项
+  -奖学金：大一曾获得两次奖学金
+  -荣誉称号：曾获得校级自强社先进个人荣誉称号
+  -比赛奖项：参加大学生创新创业项目并成功结题
+  -英语：以获得英语四级证书
+  
+### 研究项目
+#### 学校（2019/05/21-2021/06/30）
+  -**易学APP的开发**
+  项目描述：项目主要内容是为了解决有的学生不自律的问题，设置签到提醒，同时打开应用就可以随机出现的励志语录激励着你；为了方便学生自己一个人的时候也能够安心学习，上传分享自己的心得与学习资料，可以查看课表与作业；项目开发用的是Android开发工具，在Android上做前端展示，在eclipse做后台。
+  -**全球疫情追踪地图**
+  项目描述：新冠疫情的情况是如今对大多数人所关注的。疫情的持续发酵，牵动用户的情绪，且一步步逼近用户的情绪阙值，继而诱发一系列的用户行为。一个好的软件理应考虑到大部分共性用户的情绪点，并能做好承接。基于此，实时和更丰富的播报内容是我们最终选择的产品定位切入点。在当下，用户会恐惧，感染的人越来越多，是否能够得到控制，继而每天第一件事便是查看疫情数据；用户会敏感，继而关注实时的疫情发展；用户会担忧，我所在区情况如何，我关心的人所在区如何等等。其次，最重要的就是作为实时信息系统的所必备的特征——快、全、准。为了保证最真实最快的数据更新，结合现状更快抢时间，我们采取的是数据获取->数据清洗->数据展示的数据链路。
+  -**手写体识别**
+  项目描述：手写体识别系统支持手写输入，用户可以直接用鼠标在绘图区描绘自己想要的字符，再由系统识别，支持返回多值，即识别出与描绘字符相类似的多个字符，将识别出来的多个结果在右侧显示，用户选择想要的正确的字符即可
