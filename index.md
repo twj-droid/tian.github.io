@@ -2,14 +2,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>田文静</h1>
+      <h1>田*静</h1>
       <p><b>本科</b></p>
       <p><b>石家庄铁道大学信息学院</b></p>
       <p><b>邮箱: 2848424671@qq.com</b></p>
       <p><b>地址：河北省石家庄市长安区石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="/twj.jpg" width="100%">      % 插入证件照代码
+      <img src="/twj.jpg" width="100%">    
     </td>
   </tr>
 </table>
